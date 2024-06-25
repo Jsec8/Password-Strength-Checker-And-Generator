@@ -1,21 +1,21 @@
 # Password Strength Checker and Secure Password Generator
 
-## Descripción
-Una aplicación que verifica la fortaleza de una contraseña ingresada y sugiere mejoras. También puede generar contraseñas fuertes aleatorias.
+## Description
+A simple application that checks the strength of an entered password and suggests improvements. It can also generate strong random passwords.
 
-## Características
-- Evaluación de la fortaleza de la contraseña en tiempo real.
-- Generación de contraseñas fuertes.
-- Recomendaciones específicas para mejorar la contraseña.
-- Interfaz gráfica amigable.
+## Features
+- Real-time password strength evaluation.
+- Strong password generation.
+- Specific recommendations to improve password strength.
+- User-friendly graphical interface.
 
-## Requisitos
+## Requirements
 - Python 3.x
-- tkinter
-- random
-- string
+- `tkinter` (pre-installed with most Python distributions)
 
-## Instalación
-1. Clonar el repositorio:
+## Installation
+
+### Clone the repository
+1. Clone the repository from GitHub:
    ```bash
    git clone https://github.com/Jsec8/Password-Strength-Checker-And-Generator.git
